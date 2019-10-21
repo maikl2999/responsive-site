@@ -8,11 +8,7 @@ app.get('/', function (req, res) {
     res.sendfile(__dirname + '/public/index.html');
   });
 
-  app.get('/news', function (req, res) {
-    res.sendfile(__dirname + '/public/index.html');
-  });
-
 app.listen(process.env.PORT || 3000, function () {
 
-  console.log('Example app listening on port 3000! Hello');
+  console.log('Example app listening on port 3000!');
 });
