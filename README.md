@@ -8,4 +8,4 @@ Demo [https://auto-service-res.herokuapp.com/](https://auto-service-res.herokuap
 
 - Responsive Web Design
 - Layout using BEM
-- Deployed on heroka using node.js/express
+- Deployed on heroku using node.js/express
